@@ -62,8 +62,8 @@
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/role-of-libraries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/six-online-store-failed/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/tech-companies-can-do-more/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles_backup/java/a-guide-to-treemap-in-java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/use-hooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles_backup/java/a-guide-to-treemap-in-java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/java/chained-exceptions-in-java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/javastreams/converting-string-to-stream-of-chars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/testing/guide-to-selenium-with-junit-testng/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -74,8 +74,8 @@
 <url> <loc>https://2much2learn.com/content/articles-todo/setup/setup-java-dev-env-using-vagrant/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/cheatsheets/markdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/crud/crud-rest-api-using-spring-boot-spring-data-jpa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles/java/java-collections-quick-reference/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/programming/intro-to-different-programming-paradigms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles/java/java-collections-quick-reference/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/configure-java-dev-env-on-dual-boot-ubuntu-with-windows-10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/containerizing-spring-boot-crud-restful-api-application-with-jib/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/setting-up-postgressql-with-docker-on-windows-10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
