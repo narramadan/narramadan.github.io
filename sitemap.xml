@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://2much2learn.com/validating-integrity-of-files-with-md5-checksum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/centralized-logging-with-kafka-and-elk-stack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/dockerizing-react-crud-restful-api-integrated-application/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,6 +20,10 @@
 <url> <loc>https://2much2learn.com/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/page/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/tags/titbit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/tags/checksum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/tags/md-5-sum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/tags/certutil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/tags/kafka/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/tags/elk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/tags/centralized-logging/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -53,6 +58,7 @@
 <url> <loc>https://2much2learn.com/tags/jenkins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/tags/ci-cd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/tags/java-8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/categories/titbits/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/categories/setup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/categories/microservice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/categories/frontend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -62,23 +68,23 @@
 <url> <loc>https://2much2learn.com/categories/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/categories/cheetsheets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/categories/cicd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/authors/gyayakdoshi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/authors/narramadan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/authors/gyayakdoshi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/authors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/todo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles_backup/initial/art-of-perfection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/an-example-can-be/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles_backup/initial/markdown-test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles_backup/initial/art-of-perfection/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/Installing-Multiple-Versions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles_backup/initial/markdown-test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/role-of-libraries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles_backup/initial/tech-companies-can-do-more/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/initial/six-online-store-failed/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles_backup/initial/tech-companies-can-do-more/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles_backup/initial/use-hooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/java/a-guide-to-treemap-in-java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/java/chained-exceptions-in-java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles_backup/initial/use-hooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/javastreams/converting-string-to-stream-of-chars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles_backup/testing/guide-to-selenium-with-junit-testng/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles-todo/cheatsheets/java8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -88,13 +94,14 @@
 <url> <loc>https://2much2learn.com/content/articles/cheatsheets/markdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/crud/crud-rest-api-using-spring-boot-spring-data-jpa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/frontend/dockerizing-react-crud-restful-api-integrated-application/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles/programming/intro-to-different-programming-paradigms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/java/java-collections-quick-reference/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles/microservice/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/microservice/restful-event-driven-microservice-using-quarkus-jpa-kafka/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://2much2learn.com/content/articles/setup/configure-java-dev-env-on-dual-boot-ubuntu-with-windows-10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles/programming/intro-to-different-programming-paradigms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles/microservice/uploading-files-to-cloud-native-object-store-from-quarkus-restful-api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/centralized-logging-with-kafka-and-elk-stack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles/setup/configure-java-dev-env-on-dual-boot-ubuntu-with-windows-10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/containerizing-spring-boot-crud-restful-api-application-with-jib/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/setup/setting-up-postgressql-with-docker-on-windows-10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2much2learn.com/content/articles/testing/crud-restful-api-testing-using-rest-assured/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2much2learn.com/content/articles/titbits/validating-integrity-of-files-with-md5-checksum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
