@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5b3f8d5ec4c712eb6918.js"
+    "url": "webpack-runtime-f6d2876641ad1873b71b.js"
   },
   {
     "url": "styles.4829c05bc25015cf56cc.css"
@@ -35,17 +35,17 @@ self.__precacheManifest = [
     "url": "styles-89fd2ae28bdf06750a71.js"
   },
   {
-    "url": "framework-183f52afb14bf659c8eb.js"
+    "url": "framework-5c504cc0c9feb9d65541.js"
   },
   {
-    "url": "app-00a5f11d6684e8c68757.js"
+    "url": "app-fadeb9fb86d3c906b2e8.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-fa8b52136781c0efa3a3.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "00ae03ff70e7d2278b94880ee9595db4"
+    "revision": "3535d98ee8f601cc4489d3f88771deef"
   },
   {
     "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
@@ -96,27 +96,27 @@ self.__precacheManifest = [
     "revision": "bc3aa95dca08f5fee5291e34959c27bc"
   },
   {
-    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
-    "revision": "e535f7856b24153e0f3146e8f90a45c5"
+    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+    "revision": "f4f17fd53c7d040e56f91a3ecb692b22"
   },
   {
-    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
-    "revision": "e8794816c5eaeaa9dd20a6d77ea3b272"
+    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+    "revision": "9ddc04912d6e8f88d9de4045b8b89c59"
   },
   {
-    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
-    "revision": "aa4405ed937295296cf8510f437628e0"
+    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "revision": "087457026965f98466618a478c4b1b07"
   },
   {
-    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
-    "revision": "61e2d96d01a7eba5ea3ec1bad7e736a8"
+    "url": "google-fonts/s/poppins/v12/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+    "revision": "84780596e268aa0cb2be48af2ed5c375"
   },
   {
-    "url": "google-fonts/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecg.woff2",
-    "revision": "1a280523d375e9358d5229df34fc8e94"
+    "url": "google-fonts/s/poppins/v12/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "revision": "9ed361bba8488aeb2797b82befda20f1"
   },
   {
-    "url": "polyfill-c3d1d52bdd7a8b9e2bda.js"
+    "url": "polyfill-d8763c21827273424e94.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -144,7 +144,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-00a5f11d6684e8c68757.js`))) {
+  if (!resources || !(await caches.match(`/app-fadeb9fb86d3c906b2e8.js`))) {
     return await fetch(event.request)
   }
 
