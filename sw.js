@@ -27,97 +27,37 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d40e70aa142cb3a12bf8.js"
+    "url": "webpack-runtime-9845d5e0a01cbdfb60ea.js"
   },
   {
-    "url": "styles.0cdf4becdc22e38a4282.css"
+    "url": "styles.04a54427d5e3d4be2118.css"
   },
   {
     "url": "styles-407fe62976dc5310c43e.js"
   },
   {
-    "url": "framework-b87ba9d8f8e3b080fb19.js"
+    "url": "framework-e726457618cad731dbc4.js"
   },
   {
-    "url": "app-3d6fbc2dc62af1dcee88.js"
+    "url": "app-852cbe371e1fcd3a97b9.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7a3dcd6fca877a79d10d80ab3278490c"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
-    "revision": "2ecb426f85ffc1c53b677556210e629f"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnPKreRhf6.woff2",
-    "revision": "b39aa336eef260975654fde0959de6fe"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnSKzeRhf6.woff2",
-    "revision": "5a2c789b59571ce97f51f9c75600f49b"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnZKveRhf6.woff2",
-    "revision": "d8bc03a60729f4b05b42e057e21eaed3"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9C4kDNxMZdWfMOD5Vn9LjJYTI.woff2",
-    "revision": "d67acf5dba25b4f92e3eadad20032199"
-  },
-  {
-    "url": "google-fonts/s/firasans/v10/va9E4kDNxMZdWfMOD5Vvl4jL.woff2",
-    "revision": "78773521b0ffe376bc7edd8ec2a591fb"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_QpRyS7m.woff2",
-    "revision": "191cc9f50f3b76b9617cb383f19acb7d"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2",
-    "revision": "92d16e458625f4d2c8940f6bdca0ff09"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2",
-    "revision": "6fb1b5623e528e27c18658fecf5ee0ee"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2",
-    "revision": "7c3daf12b706645b5d3710f863a4da04"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2",
-    "revision": "39d93cf678c740f9f6b2b1cfde34bee3"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
-    "revision": "bc3aa95dca08f5fee5291e34959c27bc"
-  },
-  {
-    "url": "google-fonts/s/poppins/v13/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
-    "revision": "f4f17fd53c7d040e56f91a3ecb692b22"
-  },
-  {
-    "url": "google-fonts/s/poppins/v13/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
-    "revision": "9ddc04912d6e8f88d9de4045b8b89c59"
-  },
-  {
-    "url": "google-fonts/s/poppins/v13/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
-    "revision": "087457026965f98466618a478c4b1b07"
-  },
-  {
-    "url": "google-fonts/s/poppins/v13/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
-    "revision": "84780596e268aa0cb2be48af2ed5c375"
-  },
-  {
-    "url": "google-fonts/s/poppins/v13/pxiEyp8kv8JHgFVrJJfecg.woff2",
-    "revision": "9ed361bba8488aeb2797b82befda20f1"
+    "revision": "942d0925063b730030560db8a29141d9"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-40044bc71df27c39b93d.js"
   },
   {
-    "url": "polyfill-c498d3da32edec143035.js"
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "f6081b83111aea4128c98944b7fafccc"
+  },
+  {
+    "url": "page-data/app-data.json",
+    "revision": "27affb2780f9beb973623d4146bf2026"
+  },
+  {
+    "url": "polyfill-3e1b7f963c6b715c62ca.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -213,7 +153,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-3d6fbc2dc62af1dcee88.js`))) {
+  if (!resources || !(await caches.match(`/app-852cbe371e1fcd3a97b9.js`))) {
     return await fetch(event.request)
   }
 
