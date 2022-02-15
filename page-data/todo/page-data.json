@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-todo-tsx","path":"/todo/","result":{"data":{"site":{"siteMetadata":{"title":"2much2learn.com","description":"2much2learn | There's always 2 much 2 learn !!!"}}},"pageContext":{}},"staticQueryHashes":["1095007180","2173980731","2729090834"]}
+{
+    "componentChunkName": "component---src-pages-todo-tsx",
+    "path": "/todo/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"2much2learn.com","description":"2much2learn | There's always 2 much 2 learn !!!"}}},"pageContext":{}},
+    "staticQueryHashes": ["1078049558","1095007180","1577317740"]}
