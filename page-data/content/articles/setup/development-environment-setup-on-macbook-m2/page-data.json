@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-content-articles-setup-development-environment-setup-on-macbook-m-2-index-md",
+    "path": "/content/articles/setup/development-environment-setup-on-macbook-m2/",
+    "result": {"pageContext":{"frontmatter":{"templateKey":"article","published":true,"displayComments":true,"showAuthorInfo":true,"showSideBar":false,"author":"narramadan","title":"Software Development Environment setup on Macbook with M2 chip","description":"Series of steps to setup software development environment on Macbook with M2 Chip.","date":"2023-05-25T15:46:37.121+10:00","updated":"2023-05-25T15:46:37.121+10:00","cover":"../../../images/blog-banners/setup-macbook-devenv-banner-1200x690.png","category":"setup","tags":["Mackbook","Setup"],"keywords":["Development Environment setup on Macbook with M2 chip","Docker on M2","Kubernetes on M2","Java on M2","Node on M2","Apple M2","Development M2","Docker","narra.madan","narramadan","narra.madan@outlook.com","Madan Narra","Narra Madan"]}}},
+    "staticQueryHashes": []}

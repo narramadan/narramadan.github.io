@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-tsx",
+    "path": "/tags/mackbook/",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Introduction Got myself a new Apple Macbook Pro M2 Max 14″ and this guide is all about setting up the development environment needed to properly configure the Apple silicon device and for future reference to reconfigure the machine again if need be. And reference to  Mac Cheat Sheets  to help…","fields":{"slug":"/development-environment-setup-on-macbook-m2/"},"frontmatter":{"date":"25 <span> May 2023 </span>","title":"Software Development Environment setup on Macbook with M2 chip","tags":["Mackbook","Setup"],"description":"Series of steps to setup software development environment on Macbook with M2 Chip."}}}]}},"pageContext":{"tag":"Mackbook"}},
+    "staticQueryHashes": ["1078049558","1095007180"]}
